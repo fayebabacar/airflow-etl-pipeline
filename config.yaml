@@ -39,7 +39,7 @@ dags:
 
 # Configuration des notifications
 notifications:
-  email: "beuleup2018@gmail.com"  # Surchargé par NOTIFICATION_EMAIL
+  email: "mbayefaye118@gmail.com"  # Surchargé par NOTIFICATION_EMAIL
   on_failure: true
   on_retry: false
   on_success: false
