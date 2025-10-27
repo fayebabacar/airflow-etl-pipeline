@@ -35,4 +35,4 @@ airflow:
     - variable_name: etl_max_retries
       variable_value: "3"
     - variable_name: notification_email
-      variable_value: "beuleup2018@gmail.com"
+      variable_value: "mbayefaye3215@gmail.com"
