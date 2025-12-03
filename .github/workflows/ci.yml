@@ -2,10 +2,11 @@ name: Continuous Integration
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ main, develop, feature/* ]
   pull_request:
     branches: [ main ]
 
+# test all job
 jobs:
   # Job 1: Tests unitaires et d'intégration
   test:
